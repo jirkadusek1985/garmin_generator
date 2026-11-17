@@ -6,7 +6,7 @@ import garth
 from google import genai
 
 # Nastavení vzhledu pro mobil
-st.set_page_title("Garmin Tréninkový Generátor", page_icon="⚡")
+st.set_page_config(page_title="Garmin Tréninkový Generátor", page_icon="⚡")
 st.markdown("## ⚡ Garmin & AI Generátor Tréninků")
 
 # Tvůj e-mail zapsaný natvrdo
